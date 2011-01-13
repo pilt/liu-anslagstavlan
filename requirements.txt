@@ -1,0 +1,6 @@
+Fabric
+Sphinx
+ipython
+Sphinx-PyPI-upload 
+
+httplib2
