@@ -12,7 +12,7 @@ from setuptools import setup
 
 setup(
     name='liu-anslagstavlan',
-    version='0.9.0',
+    version='0.9.1',
     url='http://github.com/pilt/liu-anslagstavlan',
     license='BSD',
     author='Simon Pantzare',
