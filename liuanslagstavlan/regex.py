@@ -26,7 +26,7 @@ MATCH_DATETIME = re.compile(
     u'- (.*)</p>'
 )
 MATCH_MAIL = re.compile(
-    u'<p><a href="mailto:(.*)\?.*">.*</a>'
+    u'<p><a href="mailto:(.*)\?subject=.*">.*</a>'
 )
 
 MATCH_MESSAGE_ID = re.compile(
