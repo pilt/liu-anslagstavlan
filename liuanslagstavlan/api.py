@@ -137,7 +137,7 @@ class Entry(object):
     objects = EntryManager()
 
     def __repr__(self):
-        return u"<Category %s>" % self.id
+        return u"<Entry %s>" % self.id
 
 
 class CategoryManager(Manager):
